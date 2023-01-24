@@ -1,2 +1,2 @@
 variable "rgname" {}
-variable "loc" {}
+variable "location" {}
