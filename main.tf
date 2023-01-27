@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "example" {
-  name     = "cerg1"
+  name     = "sumrg"
   location = "canada central"
 }
